@@ -24,7 +24,7 @@
 
 ## Tools
 
-- React Icons
+- React-Icons
 
 ## Author
 
