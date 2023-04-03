@@ -22,6 +22,10 @@
 - NextJS
 - Tailwind CSS
 
+## Tools
+
+- React Icons
+
 ## Author
 
 - Linkedin - [Beka Chaduneli](https://www.linkedin.com/in/beka-chaduneli-28203422b/)
